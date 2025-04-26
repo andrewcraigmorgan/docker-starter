@@ -1,4 +1,4 @@
-# Peachy Laravel Inertia Docker Example
+# Laravel Inertia Docker Example
 
 This is the Docker set up I used for a Laravel + Inertia + Docker stack.
 
